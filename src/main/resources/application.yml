@@ -1,0 +1,4 @@
+movie:
+  apikey: ${API_KEY}
+
+
